@@ -1,0 +1,19 @@
+{
+  "name": "material-design-lite-oob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D10221/material-design-lite-oob.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D10221/material-design-lite-oob/issues"
+  },
+  "homepage": "https://github.com/D10221/material-design-lite-oob#readme"
+}
